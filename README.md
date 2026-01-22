@@ -9,7 +9,7 @@ Focusing on digital HR transformation within the German market. Combining 4 year
 * **Ziel:** Ich strebe eine Rolle als SAP SuccessFactors Employee Central Consultant in Deutschland an.
 * **Expertise:** 4 Jahre Erfahrung im Testing (QA), spezialisiert auf Systemzuverlässigkeit und Prozessoptimierung.
 * **Sprachen:** Deutsch (B2), Englisch (Fließend).
-* **Standort:** [Your Current City/Open to Relocation to Germany]
+* **Standort:** Aschaffenburg, Germany.
 
 ## 🇬🇧 About Me (English)
 * **Goal:** Dedicated to streamlining HR processes through SAP SuccessFactors Employee Central.
@@ -20,7 +20,10 @@ Focusing on digital HR transformation within the German market. Combining 4 year
 
 ## 📜 Certifications
 * **SAP Certified Application Associate** – SAP SuccessFactors Employee Central (THR81)
-* [Add any other QA certifications here, e.g., ISTQB Foundation Level]
+* **AWS Certified Cloud Practitioner 
+* **Microsoft Certified
+* **Certified scrum Master
+* ** Certified Tester from ISTQB 
 
 ---
 
