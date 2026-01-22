@@ -20,10 +20,10 @@ Focusing on digital HR transformation within the German market. Combining 4 year
 
 ## 📜 Certifications
 * **SAP Certified Application Associate** – SAP SuccessFactors Employee Central (THR81)
-* **AWS Certified Cloud Practitioner 
-* **Microsoft Certified
-* **Certified scrum Master
-* ** Certified Tester from ISTQB 
+* **AWS Certified Cloud Practitioner** 
+* **Microsoft Certified**
+* **Certified scrum Master**
+* **Certified Tester from ISTQB** 
 
 ---
 
