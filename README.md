@@ -30,7 +30,7 @@ Focusing on digital HR transformation within the German market. Combining 4 year
 ## 🛠 Skills & Tools
 * **SAP SF:** Employee Central, Role-Based Permissions (RBP), Picklists, Data Models.
 * **Testing:** Manual & Automation Testing, Regression Testing, UAT Coordination.
-* **Tools:** JIRA, HP ALM, GitHub, XML.
+* **Tools:** JIRA, SharePoint / MS Teams, GitHub, XML, Confluence, Notepas++, HP ALM,.
 
 ---
 
