@@ -1,0 +1,30 @@
+To enable the Business Configuration UI (BCUI) in SAP SuccessFactors, allowing for field-level configuration via the Admin Center rather than XML uploads, ensuring a more agile and less error-prone maintenance process.
+
+Phase 1: Provisioning Pre-Requisites (The Backend)
+Before checking the BCUI box, the following must be enabled in Company Settings:
+
+[ ] Enable Generic Objects: BCUI relies on the Metadata Framework (MDF).
+
+[ ] Enable Attachment Manager: Required for certain field attributes.
+
+[ ] Enable Role-Based Permissions (RBP): Necessary to control who can access the tool in the frontend.
+
+Phase 2: The Migration Steps
+Export Current State: Download the Succession Data Model and Country-Specific Succession Data Model from Provisioning as a backup.
+
+Health Check: Run the XML through an offline DTD validator to ensure there are no formatting errors.
+
+Activation: In Provisioning > Company Settings, check "Enable Business Configuration in Admin Tools".
+
+Initial Sync: Re-import your backed-up Succession Data Model. This "kicks" the system to populate the UI for the first time.
+
+Phase 3: Post-Enablement Validation (The QA Step)
+As a consultant with a QA background, perform these checks in the Instance:
+
+[ ] Tool Access: Navigate to Admin Center > Manage Business Configuration.
+
+[ ] Data Integrity: Pick a specific element (e.g., jobInfo) and verify that the fields, picklists, and labels (English & German) match the XML.
+
+[ ] Job Monitor: Go to Admin Center > Monitor Job and ensure the BCUI Save or Synchronize Business Configuration job completed successfully.
+
+[ ] RBP Check: Ensure the "SuccessFactors Admin" role has permissions under Metadata Framework > Manage Business Configuration.
