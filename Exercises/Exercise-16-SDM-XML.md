@@ -24,4 +24,4 @@ I performed the following steps to update the **Succession Data Model (SDM)**:
 - **Outcome:** The fields are now available in the system for data entry.
 - **RBP Adjustment:** After the upload, I navigated to **Manage Permission Roles** in the Instance to grant "View" and "Edit" rights to the System Admin role for these two new fields.
 - **Risk Managed:** By validating the XML before upload, I prevented system-wide "Fingerprint" errors that occur with broken Data Models.
-- ![Configure the SDM using XML](../images/Screenshot 2026-01-22 094851.png)
+
